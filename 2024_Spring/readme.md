@@ -103,7 +103,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Wong, William
 
-- [ ] Xu, Ke
+- [ ] Xu, Ke: KeXuCLara
 
 - [ ] Zhu, Michelle 
 
